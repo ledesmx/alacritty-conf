@@ -1,0 +1,10 @@
+[font]
+normal = { family = "0xProto Nerd Font Mono", style = "Regular" }
+size = 11.0
+
+#bold = { family = "<string>", style = "<string>" }
+#italic = { family = "<string>", style = "<string>" }
+#bold_italic = { family = "<string>", style = "<string>" }
+#offset = { x = <integer>, y = <integer> }
+#glyph_offset = { x = <integer>, y = <integer> }
+#builtin_box_drawing = true

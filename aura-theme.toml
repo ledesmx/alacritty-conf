@@ -1,0 +1,38 @@
+# Colors (Aura Theme)
+
+# Default colors
+[colors.primary]
+#background = '#15141b'
+background = '#101012'
+foreground = '#fbfbfb'
+
+# Normal colors
+[colors.normal]
+black   = '#0a040d'
+red     = '#ff6da2'
+green   = '#c4ffa0'
+yellow  = '#fffa90'
+blue    = '#7cc8f0'
+magenta = '#dbbcfe'
+cyan    = '#72ffb3'
+white   = '#fbfbfb'
+
+# Bright colors
+[colors.bright]
+#black   = '#13141b'
+black   = '#8d859e'
+red     = '#ff6da2'
+green   = '#c4ffa0'
+yellow  = '#fffa90'
+blue    = '#7cc8f0'
+magenta = '#dbbcfe'
+cyan    = '#72ffb3'
+white   = '#fbfbfb'
+
+[colors.selection]
+text       = 'CellForeground'
+background = '#3b3053'
+
+[colors.cursor]
+cursor = '#dbbcfe'
+
